@@ -59,7 +59,7 @@ skills:
         icon_pack: fas
       - name: C++
         description: ''
-        percent: 40
+        percent: 
         icon: database
         icon_pack: fas
   - name: Hobbies

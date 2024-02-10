@@ -1,13 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: 杨语希
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+name_pronunciation: Yuxi Yang
 
 # Status emoji
 status:
@@ -17,12 +13,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: NUAA长空学院辣鸡大学生一枚
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nanjing University of Aeronautics and Astronautics
+    url: http://nuaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -120,5 +116,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+骚瑞我只是一名普通的大茄曾，请别对我要求太高惹~
 {style="text-align: justify;"}

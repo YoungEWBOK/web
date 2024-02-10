@@ -32,7 +32,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - 本科在读，等我大学毕业再更新学历，靴靴。。。
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -51,11 +59,10 @@ skills:
         icon_pack: fas
       - name: C++
         description: ''
-        percent: 5
+        percent: 40
         icon: database
         icon_pack: fas
-
-- name: Hobbies
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -107,6 +114,7 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
 ---
 
 骚瑞！我只是一名普通的大学生，请别对我要求太高惹。。

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 🐑's Repository⌛
+title: 🐑's Repository
 
 # Name pronunciation (optional)
 

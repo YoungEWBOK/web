@@ -17,10 +17,10 @@ role: 记忆的垃圾堆或者是后花园
 # Organizations/Affiliations to show in About widget
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
 
 # Interests to show in About widget
-interests:
+经常做的事:
   - 摆烂(时常)
   - 睡懒觉(放假在家)
   - 在学校比较爱读书(以及被卷到的时候)

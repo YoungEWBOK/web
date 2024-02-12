@@ -21,9 +21,6 @@ role: 记忆的垃圾堆或者是后花园
 
 # Interests to show in About widget
 interests:
-  - 摆烂(时常)
-  - 睡懒觉(放假在家)
-  - 摆弄各种电脑技术
   - 正在寻找中···
 # Education to show in About widget
 
@@ -42,5 +39,5 @@ highlight_name: true
 
 ---
 
-走过的路，总要留下些什么吧。
+走过的路，总要留下些印记吧。
 {style="text-align: justify;"}

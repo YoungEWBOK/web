@@ -23,7 +23,7 @@ role: 记忆的垃圾堆或者是后花园
 interests:
   - 摆烂(时常)
   - 睡懒觉(放假在家)
-  - 在学校爱读书(以及被卷到的时候)
+  - 摆弄各种电脑技术
   - 正在寻找中···
 # Education to show in About widget
 

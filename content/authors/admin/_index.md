@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 时光沙漏⌛
+title: 🐑's Repository⌛
 
 # Name pronunciation (optional)
 

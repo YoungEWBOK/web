@@ -20,11 +20,11 @@ role: 记忆的垃圾堆或者是后花园
 
 
 # Interests to show in About widget
-经常做的事:
+interests:
   - 摆烂(时常)
   - 睡懒觉(放假在家)
   - 在学校比较爱读书(以及被卷到的时候)
-
+  - 正在寻找中···
 # Education to show in About widget
 
 
@@ -42,5 +42,5 @@ highlight_name: true
 
 ---
 
-骚瑞！我只是一名普通的大学生，请别对我要求太高惹。。
+走过的路，总要留下些什么吧。
 {style="text-align: justify;"}

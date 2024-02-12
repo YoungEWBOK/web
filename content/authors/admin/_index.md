@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 🐑's Repository
+title: 时光沙漏⌛
 
 # Name pronunciation (optional)
 
@@ -39,5 +39,5 @@ highlight_name: true
 
 ---
 
-走过的路，总要留下些印记吧。
+走过的路，总要留下些印记吧🐾
 {style="text-align: justify;"}

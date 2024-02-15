@@ -21,7 +21,7 @@ role: 记忆的垃圾堆或者是后花园
 
 # Interests to show in About widget
 interests:
-  - 正在寻找中···
+  - 正在探索中···
 # Education to show in About widget
 
 
